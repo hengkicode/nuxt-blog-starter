@@ -1,7 +1,7 @@
 ---
 title: 'Sample Meta Title | Blog'
 description: "Sample meta description, it gets added on share cards"
-headline: 'Sample Blog Title'
+headline: 'Sample Blog Title Hengki'
 excerpt: "Sample excerpt, appears in blog cards"
 date: '2023-02-28T12:00:00'
 dateUpdated: ''
@@ -15,7 +15,7 @@ socialImage:
     height: 630
 ---
 
-This is a sample blog post.
+Ini adalah sample blog.
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ Headings up to H3 (inclusive) are added to the Table of Contents
 
 ### This heading is in the ToC
 
-Lorem ipsum
+Lorem ipsum hengki
 
 #### This heading is not in the ToC
 
